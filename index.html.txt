@@ -15,6 +15,9 @@
     <p>This is my first Git project.</p>
 <h2>About Me</h2>
 <p>My Name is NAZIYA HAMID </p>
+<footer>
+    <p>© 2026 My Website</p>
+</footer>
 
 </body>
 </html>
